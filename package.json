@@ -8,10 +8,13 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "git+https://github.com/b1411/bitrixjs.git"
 	},
 	"dependencies": {
 		"axios": "^1.7.1"
 	},
-	"homepage": ""
+	"homepage": "https://github.com/b1411/bitrixjs#readme",
+	"bugs": {
+		"url": "https://github.com/b1411/bitrixjs/issues"
+	}
 }
