@@ -1,0 +1,17 @@
+{
+	"main": "index.js",
+	"name": "rakhmt-bitrix24js",
+	"description": "Bitrix24 REST API client for Node.js",
+	"version": "1.0.0",
+	"type": "module",
+	"author": "Rakhmat Kenzhebayev",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"dependencies": {
+		"axios": "^1.7.1"
+	},
+	"homepage": ""
+}
